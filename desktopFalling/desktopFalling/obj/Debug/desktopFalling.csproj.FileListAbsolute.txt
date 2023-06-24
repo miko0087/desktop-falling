@@ -1,0 +1,12 @@
+C:\Users\mikoh\source\repos\desktopFalling\desktopFalling\bin\Debug\desktopFalling.exe.config
+C:\Users\mikoh\source\repos\desktopFalling\desktopFalling\bin\Debug\desktopFalling.exe
+C:\Users\mikoh\source\repos\desktopFalling\desktopFalling\bin\Debug\desktopFalling.pdb
+C:\Users\mikoh\source\repos\desktopFalling\desktopFalling\obj\Debug\desktopFalling.csproj.AssemblyReference.cache
+C:\Users\mikoh\source\repos\desktopFalling\desktopFalling\obj\Debug\desktopFalling.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikoh\source\repos\desktopFalling\desktopFalling\obj\Debug\desktopFalling.Form1.resources
+C:\Users\mikoh\source\repos\desktopFalling\desktopFalling\obj\Debug\desktopFalling.Properties.Resources.resources
+C:\Users\mikoh\source\repos\desktopFalling\desktopFalling\obj\Debug\desktopFalling.csproj.GenerateResource.cache
+C:\Users\mikoh\source\repos\desktopFalling\desktopFalling\obj\Debug\desktopFalling.csproj.CoreCompileInputs.cache
+C:\Users\mikoh\source\repos\desktopFalling\desktopFalling\obj\Debug\desktopFalling.exe
+C:\Users\mikoh\source\repos\desktopFalling\desktopFalling\obj\Debug\desktopFalling.pdb
+C:\Users\mikoh\source\repos\desktopFalling\desktopFalling\obj\Debug\desktopFalling.FallingWindow.resources
